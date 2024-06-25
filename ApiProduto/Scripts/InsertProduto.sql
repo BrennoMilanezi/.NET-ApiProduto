@@ -1,0 +1,1 @@
+﻿INSERT INTO Produtos Values ('Água Mineral', 1, '2024-04-06 10:00:00', '2026-04-06 10:00:00', '123ETD4265', 'Descrição Fornecedor', '85.143.498/0001-02');
